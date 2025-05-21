@@ -12,7 +12,7 @@
     justify-content: space-between;
     align-items:center;
     background-color:#1f2937;
-    padding:20px 200px;
+    padding:20px 300px;
 }
 .header ul{
     display:flex;
@@ -27,7 +27,7 @@
 }
 .top{
     display:flex;
-    padding:20px 200px;
+    padding:20px 300px;
     justify-content: space-between;
     gap:30px;
     background-color:#1f2937;
@@ -96,7 +96,7 @@
 .quote{
     display:flex;
     flex-direction:column;
-    padding:75px 200px;
+    padding:75px 300px;
     background-color:#E5E7EB
 }
 .quote h2{
